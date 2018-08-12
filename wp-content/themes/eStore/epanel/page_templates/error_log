@@ -1,0 +1,1 @@
+[31-Jul-2014 03:45:10 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home2/feathet9/public_html/stemlesswineglasses/wp-content/themes/eStore/epanel/page_templates/page_templates.php on line 5

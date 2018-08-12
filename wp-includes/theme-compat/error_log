@@ -1,0 +1,1 @@
+[10-Feb-2018 07:00:34 America/Denver] PHP Fatal error:  Call to undefined function post_class() in /home2/feathet9/public_html/stemlesswineglasses/wp-includes/theme-compat/embed-content.php on line 13

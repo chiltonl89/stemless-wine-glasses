@@ -1,0 +1,5 @@
+[31-Jul-2014 03:45:11 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/feathet9/public_html/stemlesswineglasses/wp-content/themes/eStore/epanel/core_functions.php on line 8
+[31-Jul-2014 03:45:12 America/Denver] PHP Fatal error:  Call to undefined function add_theme_support() in /home2/feathet9/public_html/stemlesswineglasses/wp-content/themes/eStore/epanel/custom_functions.php on line 6
+[31-Jul-2014 03:45:14 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/feathet9/public_html/stemlesswineglasses/wp-content/themes/eStore/epanel/import_settings.php on line 2
+[31-Jul-2014 03:45:19 America/Denver] PHP Fatal error:  Call to undefined function get_categories() in /home2/feathet9/public_html/stemlesswineglasses/wp-content/themes/eStore/epanel/options_estore.php on line 9
+[31-Jul-2014 03:45:20 America/Denver] PHP Fatal error:  Call to undefined function add_theme_support() in /home2/feathet9/public_html/stemlesswineglasses/wp-content/themes/eStore/epanel/post_thumbnails_estore.php on line 2
